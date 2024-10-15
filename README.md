@@ -16,6 +16,8 @@ Kwality Super Restaurant Foods, an Indian food company, recently launched in 10 
 
 Note: A year's worth of data was provided for this analysis.
 
+### Technology Used:- Power BI, Excel, SQL
+
 
 ### Report Details:
 
